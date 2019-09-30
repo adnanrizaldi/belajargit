@@ -1,10 +1,15 @@
-Senin : GIT
+
+Senin : GIT (Branche,Merge)
+Senin : Desain Antarmuka(Wireframe)
 Selasa : SIM (Sistem Informasi Manajemen)
 
 Kamis : GNS3 
-Jumat :Triger DB
-Sabtu : (oky) pulang kampung
-Minggu : (oky) mandiin burung
+Jumat : Triger DB
+Sabtu : Ocky
+Jumat : Ocky
 
 
-ini dimaster
+ini file branch
+
+
+
