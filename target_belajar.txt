@@ -1,4 +1,8 @@
-Senin : Boostrap,GIT
+Senin : GIT (Branche,Merge)
+Senin : Desain Antarmuka(Wireframe)
 Selasa : SIM (Sistem Informasi Manajemen)
-Rabu : Dosen kosong 
+
 Kamis : GNS3 
+Jumat : Triger DB
+Sabtu : Ocky
+Jumat : Ocky
