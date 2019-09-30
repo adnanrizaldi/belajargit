@@ -6,3 +6,6 @@ Kamis : GNS3
 Jumat : Triger DB
 Sabtu : Ocky
 Jumat : Ocky
+
+
+ini file branch
